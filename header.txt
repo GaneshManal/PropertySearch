@@ -1,0 +1,45 @@
+Year@District@Village@CTS No@DocNo@DName@RDate@SROName@Seller Name@Purchaser Name@Property Description@SROCode@Status@Returns@Market Quotes@Area@Stamp duty market@Registration fee market
+
+type data_2015_Andheri_1.csv data_2015_Andheri_2.csv data_2015_Andheri_3.csv data_2015_Andheri_4.csv data_2015_Andheri_5.csv data_2015_Andheri_6.csv data_2015_Andheri_7.csv data_2015_Andheri_8.csv data_2015_Andheri_9.csv data_2015_Andheri_10.csv data_2015_Andheri_11.csv data_2015_Andheri_12.csv data_2015_Andheri_13.csv data_2015_Andheri_14.csv data_2015_Andheri_15.csv data_2015_Andheri_16.csv data_2015_Andheri_17.csv data_2015_Andheri_18.csv data_2015_Andheri_19.csv data_2015_Andheri_20.csv > merge.
+
+--> Hindi to english conversion
+http://techwelkin.com/tools/hindi-to-english-roman-font-converter/
+
+python ReadPropertyUsingSelenium1.py 2015 New_Mumbai Andheri 21
+
+
+
+Doc Name@Consideration@Market Quotes@
+
+
+Year
+District
+Village
+CTS No
+DocNo
+DName
+RDate
+SROName
+Seller Name
+Purchaser Name
+Property Description
+SROCode
+Status
+विलेखाचा प्रकार
+मोबदला
+बाजारभाव(भाडेपटटयाच्या बाबतितपटटाकार आकारणी देतो की पटटेदार ते नमुद करावे)
+भू-मापन,पोटहिस्सा व घरक्रमांक(असल्यास)
+क्षेत्रफळ
+आकारणी किंवा जुडी देण्यात असेल तेव्हा.
+दस्तऐवज करुन देणा-या/लिहून ठेवणा-या पक्षकाराचे नाव
+दस्तऐवज करुन घेणा-या पक्षकाराचे व किंवा दिवाणी न्यायालयाचा हुकुमनामा किंवा आदेश असल्यास,प्रतिवादिचे नाव व पत्ता
+दस्तऐवज करुन दिल्याचा दिनांक
+दस्त नोंदणी केल्याचा दिनांक
+अनुक्रमांक,खंड व पृष्ठ
+बाजारभावाप्रमाणे मुद्रांक शुल्क
+बाजारभावाप्रमाणे नोंदणी शुल्क
+शेरा
+
+Year@District@Village@CTS No@DocNo@DName@RDate@SROName@Seller Name@Purchaser Name@Property Description@SROCode@Status@विलेखाचा प्रकार@मोबदला@बाजारभाव@क्षेत्रफळ@दस्तऐवज करुन दिल्याचा दिनांक@दस्त नोंदणी केल्याचा दिनांक@अनुक्रमांक,खंड व पृष्ठ@बाजारभावाप्रमाणेमुद्रांक शुल्क@बाजारभावाप्रमाणे नोंदणी शुल्क
+
+Year@District@Village CTS No  DocNo   DName   RDate   SROName Seller Name Purchaser Name  Property Description@SROCode Status  विलेखाचा प्रकार मोबदला  बाजारभाव(भाडेपटटयाच्या बाबतितपटटाकार आकारणी देतो की पटटेदार ते नमुद करावे)  क्षेत्रफळ   दस्तऐवज करुन दिल्याचा दिनांक@दस्त नोंदणी केल्याचा दिनांक अनुक्रमांक,खंड व पृष्ठ  बाजारभावाप्रमाणे मुद्रांक शुल्क बाजारभावाप्रमाणे नोंदणी शुल्क
